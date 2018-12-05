@@ -1,0 +1,6 @@
+#
+# Provider Configuration
+#
+
+provider "azurerm" {
+}
